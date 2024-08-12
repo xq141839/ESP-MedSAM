@@ -11,6 +11,8 @@
 
 ## 📰News
 
+**[2024.08.08]** The pre-print paper has been uploaded!
+
 **[2024.08.07]** Paper will be updated soon!
 
 **[2024.08.07]** Code and model checkpoints are released!
