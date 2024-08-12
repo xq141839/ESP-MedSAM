@@ -2,11 +2,11 @@
 
 :pushpin: This is an official PyTorch implementation of **ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**
 
-[[`arXiv`]()] [[`BibTeX`]()]
+[[`arXiv`](https://arxiv.org/abs/2407.14153)] [[`BibTeX`](https://scholar.googleusercontent.com/scholar.bib?q=info:m1SgUw239yoJ:scholar.google.com/&output=citation&scisdr=ClFw2KpjEKieyAzytL0:AFWwaeYAAAAAZrn0rL2ppFHGbu1Xxj0lav_6C68&scisig=AFWwaeYAAAAAZrn0rNOsqsq5rY17-SQIAK7bscM&scisf=4&ct=citation&cd=-1&hl=en)]
 
 
 <div align="center">
-    <img width="100%" alt="UKAN overview" src="framework.png"/>
+    <img width="100%" alt="ESP-MedSAM overview" src="framework.png"/>
 </div>
 
 ## 📰News
@@ -62,3 +62,13 @@ Greatly appreciate the tremendous effort for the following projects!
 - [SAM](https://github.com/facebookresearch/segment-anything)
 - [TinyViT](https://github.com/microsoft/Cream/tree/main/TinyViT)
 
+## 📜Citation
+If you find this work helpful for your project,please consider citing the following paper:
+```
+@article{xu2024esp,
+  title={ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation},
+  author={Xu, Qing and Li, Jiaxuan and He, Xiangjian and Liu, Ziyu and Chen, Zhen and Duan, Wenting and Li, Chenxin and He, Maggie M and Tesema, Fiseha B and Cheah, Wooi P and others},
+  journal={arXiv preprint arXiv:2407.14153},
+  year={2024}
+}
+```
