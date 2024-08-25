@@ -65,7 +65,7 @@ Greatly appreciate the tremendous effort for the following projects!
 - [TinyViT](https://github.com/microsoft/Cream/tree/main/TinyViT)
 
 ## 📜Citation
-If you find this work helpful for your project,please consider citing the following paper:
+If you find this work helpful for your project, please consider citing the following paper:
 ```
 @article{xu2024esp,
   title={ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation},
