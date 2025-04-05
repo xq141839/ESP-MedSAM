@@ -49,20 +49,12 @@ ESP-MedSAM
 
 ## 🎪Segmentation Model Zoo
 We provide all pre-trained models here.
-| MA-Backbone | MC | Checkpoints |
+| Teacher Model | Pretraining Data | Checkpoints |
 |-----|------|-----|
-|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-
-
-## 🎈Acknowledgements
-Greatly appreciate the tremendous effort for the following projects!
-- [SAM](https://github.com/facebookresearch/segment-anything)
-- [TinyViT](https://github.com/microsoft/Cream/tree/main/TinyViT)
+|SAM| 0.1% SA-1B | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
+|SAM2| 0.1% SA-1B | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
+|SAM| 1% SA-1B |TBA|
+|SAM2| 1% SA-1B |TBA|
 
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
