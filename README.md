@@ -51,12 +51,12 @@ ESP-MedSAM
 We provide all pre-trained models here.
 | MA-Backbone | MC | Checkpoints |
 |-----|------|-----|
-|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
-|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/r/personal/scxqx1_nottingham_edu_cn/Documents/ESP-MedSAM?csf=1&web=1&e=GDtIv3)|
+|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
+|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
+|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
+|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
+|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
+|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=DLgxlr)|
 
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
