@@ -1,12 +1,12 @@
-# ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation
+# De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation
 
-:pushpin: This is an official PyTorch implementation of **ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**
+:pushpin: This is an official PyTorch implementation of **De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation**
 
 [[`arXiv`](https://arxiv.org/abs/2407.14153)] [[`BibTeX`](https://scholar.googleusercontent.com/scholar.bib?q=info:m1SgUw239yoJ:scholar.google.com/&output=citation&scisdr=ClFw2KpjEKieyAzytL0:AFWwaeYAAAAAZrn0rL2ppFHGbu1Xxj0lav_6C68&scisig=AFWwaeYAAAAAZrn0rNOsqsq5rY17-SQIAK7bscM&scisf=4&ct=citation&cd=-1&hl=en)]
 
 
 <div align="center">
-    <img width="100%" alt="ESP-MedSAM overview" src="framework.png"/>
+    <img width="100%" alt="De-LightSAM overview" src="framework.png"/>
 </div>
 
 ## 📰News
@@ -20,8 +20,8 @@
 ## 🛠Setup
 
 ```bash
-git clone https://github.com/xq141839/ESP-MedSAM.git
-cd ESP-MedSAM
+git clone https://github.com/xq141839/De-LightSAM.git
+cd De-LightSAM
 conda create -n ESP python=3.10
 conda activate ESP
 conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia
@@ -37,7 +37,7 @@ pip install monai
 
 The structure is as follows.
 ```
-ESP-MedSAM
+De-LightSAM
 ├── datasets
 │   ├── image_1024
 │     ├── ISIC_0000000.png
